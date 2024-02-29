@@ -89,7 +89,7 @@ to find them.
 > maintained or scaled, as the main goal was to learn and practice the Kotlin programming language as a way to introduce
 > programming basic concepts to students.
 >
-> This README file is base on [Francisco Engenheiro](https://github.com/franciscoengenheiro/space-invaders-app)' file.
+> This README file is base on [Francisco Engenheiro](https://github.com/franciscoengenheiro/space-invaders-app) file.
 
 ---
 
