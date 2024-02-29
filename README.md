@@ -88,6 +88,8 @@ to find them.
 > It's worth mentioning that the project was developed in a short period of time. It was not intended to be
 > maintained or scaled, as the main goal was to learn and practice the Kotlin programming language as a way to introduce
 > programming basic concepts to students.
+>
+> This README file is base on [Francisco Engenheiro](https://github.com/franciscoengenheiro/space-invaders-app)' file.
 
 ---
 
